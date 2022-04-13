@@ -1,0 +1,6 @@
+#task 4
+from utils import currency_rates
+
+
+currency_rates('USD')
+currency_rates('AUD')
